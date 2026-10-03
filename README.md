@@ -45,7 +45,6 @@ GTCEuを使用します。
 バグ報告・レシピやバランスの改善案などあれば、Note開発日記のコメント欄やGitHub Issuesまでよろしくお願いします。
 # 9.リンク
 [Note](https://note.com/noname_84713)
-[Discord](https://discord.gg/KgjznASu7)
 
 ---
 
@@ -97,4 +96,3 @@ The goal is to make GregTech easier to progress through while keeping it enjoyab
 If you have bug reports, recipe suggestions, balance suggestions, or other feedback, please leave a comment on the Note development journal or open an issue on GitHub.
 # 9. Links
 [Note](https://note.com/noname_84713)
-[Discord](https://discord.gg/KgjznASu7)
